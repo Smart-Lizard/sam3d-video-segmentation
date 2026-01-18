@@ -1,0 +1,18 @@
+# outputs / large files
+outputs/
+runs/
+*.mp4
+*.mov
+*.avi
+
+# python cache
+__pycache__/
+*.pyc
+
+# logs / env
+*.log
+.env
+
+# editor
+.vscode/
+.DS_Store
